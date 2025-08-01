@@ -1,6 +1,6 @@
 streamlit
-tensorflow==2.13.0
-tensorflow_hub==0.13.0
+tensorflow==2.13
+tensorflow_hub==0.13
 numpy
 Pillow
 matplotlib
